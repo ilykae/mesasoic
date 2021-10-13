@@ -31,6 +31,7 @@ This also only really has Linux Support so if you are a Windows or Mac user. It'
  Every System Ever (probably)
 `git clone https://github.com/4kae/story.git`
 
+# After getting the reqrequisties
 If you have all the prerequisites and aren't deficit of the prerequisites. Let's get started.
 
 Now assuming you have all the prerequisties and have a working Linux system (with a terminal). We can get started on really launching this project.
