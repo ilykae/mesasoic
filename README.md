@@ -15,7 +15,7 @@ This also only really has Linux Support so if you are a Windows or Mac user. It'
 > ~ Python3
 
  Arch Linux (AUR)
-`$ sudo pacman -S python3`
+`sudo pacman -S python3`
 
  Ubuntu and Ubuntu Based systems
 `sudo apt install python3`
