@@ -12,7 +12,7 @@ This also only really has Linux Support so if you are a Windows or Mac user. It'
 
 # Prerequisites
 
-> | Python3
+> ~ Python3
 
 # Arch Linux (AUR)
 `$ sudo pacman -S python3`
@@ -20,13 +20,13 @@ This also only really has Linux Support so if you are a Windows or Mac user. It'
 # Ubuntu and Ubuntu Based systems
 `sudo apt install python3`
 
-> ~ | A Terminal of your choice.
+> ~  A Terminal of your choice.
 
-> ~ | Enough brain compacity and bravery to use a terminal/
+> ~  Enough brain compacity and bravery to use a terminal/
 
-> ~ | Enough brain compacity to Copy and Paste.
+> ~  Enough brain compacity to Copy and Paste.
 
-> ~ | To be able to clone the repository
+> ~  To be able to clone the repository
 
 # Every System Ever (probably)
 `git clone https://github.com/4kae/story.git`
