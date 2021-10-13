@@ -4,7 +4,7 @@ Hi, This is a W.I.P project that is legitimately a story written in Python.
 
 This is a simple project to test my knowledge and i'm learning along the way, maybe some bigger ideas later (like a community driven story maker 👀. This is also being improved over time. Expect a Finished story. 👀
 
-# __NEWSFLASH!!!__
+ __NEWSFLASH!!!__
 
 It's out!!! (not complete but it will be finished)
 
@@ -14,10 +14,10 @@ This also only really has Linux Support so if you are a Windows or Mac user. It'
 
 > ~ Python3
 
-# Arch Linux (AUR)
+ Arch Linux (AUR)
 `$ sudo pacman -S python3`
 
-# Ubuntu and Ubuntu Based systems
+ Ubuntu and Ubuntu Based systems
 `sudo apt install python3`
 
 > ~  A Terminal of your choice.
@@ -28,7 +28,7 @@ This also only really has Linux Support so if you are a Windows or Mac user. It'
 
 > ~  To be able to clone the repository
 
-# Every System Ever (probably)
+ Every System Ever (probably)
 `git clone https://github.com/4kae/story.git`
 
 If you have all the prerequisites and aren't deficit of the prerequisites. Let's get started.
