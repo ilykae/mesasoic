@@ -20,6 +20,14 @@ This also only really has Linux Support so if you are a Windows or Mac user. It'
  Ubuntu and Ubuntu Based systems
 `sudo apt install python3`
 
+> ~  Git
+
+Unbuntu and Ubuntu Based systems
+`sudo apt install git`
+
+Arch Linux (AUR)
+`sudo apt install git`
+
 > ~  A Terminal of your choice.
 
 > ~  Enough brain compacity and bravery to use a terminal/
