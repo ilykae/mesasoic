@@ -1,8 +1,8 @@
-# My Story
+# Mesasoic
 
-Hi, This is a W.I.P project that is legitimately a story written in Python.
+Hi, This is a W.I.P project that is a story written in Python.
 
-This is a simple project to test my knowledge and i'm learning along the way, maybe some bigger ideas later (like a community driven story maker 👀. This is also being improved over time. Expect a Finished story. 👀
+This is a simple project to test my knowledge and i'm learning along the way, maybe some bigger ideas later (like a community driven story contributing system) 👀. This is also being improved over time so pop in every now and again. 👀
 
  __NEWSFLASH!!!__
 
@@ -48,6 +48,6 @@ Now, once the cloning has been done. You can really get down to the meat and pot
 
 Now to do this you're going to have to imput this command into your terminal
 
-`cd story/ && ./story.sh`
+`cd mesasoic/ && ./story.sh`
 
 There we go, you actually did something productive, here's a superficial, non-existing medal.
