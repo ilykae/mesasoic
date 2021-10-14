@@ -52,5 +52,5 @@ Now to do this you're going to have to imput this command into your terminal
 
 There we go, you actually did something productive, here's a superficial, non-existing medal.
 
-# This is not finished so if you find error, set up an issue so I can get to it as fast as i can.
+# This is not finished so if you find errors, set up an issue so I can get to it as fast as i can.
 thx bb's <3
