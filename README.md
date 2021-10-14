@@ -25,8 +25,8 @@ This also only really has Linux Support so if you are a Windows or Mac user. It'
 Unbuntu and derivitaves 
 `sudo apt install git`
 
-Arch Linux (AUR)
-`sudo apt install git`
+Arch Linux (AUR) and it's derivitaves
+`sudo pacman -S git`
 
 > ~  A Terminal of your choice.
 
